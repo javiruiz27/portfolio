@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Project Alpha",
+    "description": "Description for Project Alpha.",
+    "image": "https://imgs.search.brave.com/k-yVg5cgAhF9nwA1-fw3jQPUIOGnFnN8wb4_-Uc3KGQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvNTQz/NjgwMTk2L2VzL3Zl/Y3Rvci9sZXRyYS1h/LmpwZz9zPTYxMng2/MTImdz0wJms9MjAm/Yz1VSXZiRlFZN3RR/T3pGbnZkTDlMQ1dv/YlBzSGxSTDlFS3pM/UlRKLTktWDhFPQ",
+    "url": "https://example.com/project-alpha"
+  },
+  {
+    "name": "Project Beta",
+    "description": "Description for Project Beta.",
+    "image": "https://imgs.search.brave.com/cjkBa1e1gz3hUyB6AL1YlFpSPQDy3Tf7zI7uGJEuE8s/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjFhdTh5V1lndUwu/anBn",
+    "url": "https://example.com/project-beta"
+  },
+  {
+    "name": "Project Gamma",
+    "description": "Description for Project Gamma.",
+    "image": "https://imgs.search.brave.com/5gLRAIVHiuYad8uYtMKFHIIRqRKa-0_ROK6rQqg5bRU/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93aWtp/bWVkaWEub3JnL2Fw/aS9yZXN0X3YxL21l/ZGlhL21hdGgvcmVu/ZGVyL3N2Zy9hMjIz/Yzg4MGIwY2UzZGE4/ZjY0ZWUzM2M0ZjAw/MTBiZWVlNDAwYjFh.jpeg",
+    "url": "https://example.com/project-gamma"
+  },
+  {
+    "name": "Project Delta",
+    "description": "Description for Project Delta.",
+    "image": "https://imgs.search.brave.com/Q6S6PjBB_w3hmIVwQ94KZapAA22-RyXa9n-_UHGf31g/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/MzFKUTZzd3JuN0wu/anBn",
+    "url": "https://example.com/project-delta"
+  },
+  {
+    "name": "Project Epsilon",
+    "description": "Description for Project Epsilon.",
+    "image": "https://imgs.search.brave.com/MikGgnmSCOaGO1jLPHNc56DqIayvYGEA3w45bteA30s/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFVZVdUaFlqbEwu/anBn",
+    "url": "https://example.com/project-epsilon"
+  },
+  {
+    "name": "Project Zeta",
+    "description": "Description for Project Zeta.",
+    "image": "https://imgs.search.brave.com/bU9xHEqe5qBJ3hZhtRapB2mOfh0PNhIhgVgliRyFXhg/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cGl4YWJheS5jb20v/cGhvdG8vMjAxNi8w/NC8yMi8xNy80MC93/b29kZW4tei0xMzQ2/MjE0XzY0MC5wbmc",
+    "url": "https://example.com/project-zeta"
+  }
+]

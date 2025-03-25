@@ -1,0 +1,30 @@
+[
+  {
+    "dates": "December 2024 · Present",
+    "role": "Front-end Engineer",
+    "company": "MASORANGE",
+    "description": "",
+    "logo": "/assets/images/experiences/masorange.jpeg"
+  },
+  {
+    "dates": "May 2022 · December 2024",
+    "role": "Front-end Engineer",
+    "company": "Minsait",
+    "description": "Software development for INDITEX client. Implementation and design of web applications, integrated into a microfrontend system, applying for the front part: React, Typescript, state management with contexts, Zustand. Use of React hooks and custom hooks. Styled with React Styled components, PostCSS, TailwindCSS. Layout with HTML5, Framer Motion. Development applying Test-Driven-Development (TDD) using React Testing Library and Jest. Development for Backend for Frontends (BFFs) using NodeJS, TypeScript and KOA. Definition and management of APIs. Supervision and learning of new colleagues. Daily work with methodologies such as Scrum or Kanban",
+    "logo": "/assets/images/experiences/minsait.jpeg"
+  },
+  {
+    "dates": "July 2021 · May 2022",
+    "role": "Front-end Engineer",
+    "company": "Konecta",
+    "description": "Frontend development with React, JavaScript, HTML5, CSS3, React Hooks, Contexts\n\nDevelopment and maintenance of Java applications based on the SpringBoot and Spring MVC frameworks. Creation, consumption and maintenance of REST APIs. Creation, maintenance and automation of processes with Spring Batch.",
+    "logo": "/assets/images/experiences/konecta.jpeg"
+  },
+  {
+    "dates": "July 2020 · July 2021 ",
+    "role": "Software Developer",
+    "company": "Fujitsu Spain",
+    "description": "Software development and maintenance in applications related to public administration using Java technology with SQL databases.\n\nUse of React, SASS, HTML5, CSS3, Webpack, React Hooks, REDUX to create user interfaces.\n\nDevelopment of ETL processes using Python and Docker.",
+    "logo": "/assets/images/experiences/fujitsu.jpeg"
+  }
+]
